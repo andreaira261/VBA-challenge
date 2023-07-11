@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub stock_data()
 
 For Each ws In Worksheets
